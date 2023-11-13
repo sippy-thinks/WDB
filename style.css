@@ -1,0 +1,38 @@
+
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FAF8ED;
+}
+
+
+.Week_1{
+color:#F1B4BB;
+  
+font-family: "Agbalumo";
+}
+
+h2{
+  color: #CE5A67;
+  font-family: "Agbalumo";
+}
+h3{
+  color: green ;
+  font-family: "Agbalumo";
+}
+img{
+  width: 300px;
+  border: 5px solid #DE8F5F;
+  border-radius: 20px;
+}
+.Week_2{
+  color: #85E6C5;
+  background-color:#F7EFE5
+;
+font-family: "Roboto Condensed";
+}
+.Week_3{
+  color: #B931FC;
+font-family: "Edu TAS Beginner";
+}
