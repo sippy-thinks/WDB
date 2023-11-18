@@ -41,11 +41,17 @@ font-family: "Edu TAS Beginner";
   font-family: 'DM Serif Display', serif;
 }
 
-.nav-bar{
-  justify-content:flex-start;
-  flex-direction: row;
+.week{
+  background-color: #FAF8ED;
+  color:#eab5fd;
+  display:flex; 
+  flex-direction: column;
 }
-
+.Java-quiz{
+  display:flex;
+  flex-direction: column;
+  flex: content;
+}
 /*
 .navBar{
   display: flex;
