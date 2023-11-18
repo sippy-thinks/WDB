@@ -41,6 +41,11 @@ font-family: "Edu TAS Beginner";
   font-family: 'DM Serif Display', serif;
 }
 
+.nav-bar{
+  justify-content:flex-start;
+  flex-direction: row;
+}
+
 /*
 .navBar{
   display: flex;
